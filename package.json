@@ -1,0 +1,21 @@
+{
+  "name": "dayanni-challenge",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "dayanni adames",
+  "license": "ISC",
+  "dependencies": {
+    "body": "^5.1.0",
+    "ejs": "^2.6.1",
+    "express": "^4.16.4",
+    "generator": "^1.0.1",
+    "index.js": "0.0.3",
+    "morgan": "^1.9.1",
+    "static": "^2.0.0"
+  }
+}
